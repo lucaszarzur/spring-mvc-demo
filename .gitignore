@@ -11,6 +11,3 @@ target/
 # Java
 *.class
 *.log
-
-# Others
-web/
